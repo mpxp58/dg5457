@@ -1,0 +1,8 @@
+kbs1,http://live3.meiritv.mobi:2050/__defaultVhost__/HKBS1/HKBS1.m3u8
+kbs2,http://live3.meiritv.mobi:2050/__defaultVhost__/HKBS2/HKBS2.m3u8
+mbc,http://live3.meiritv.mobi:2050/__defaultVhost__/HMBC/HMBC.m3u8
+sbs,http://live3.meiritv.mobi:2050/__defaultVhost__/HSBS/HSBS.m3u8
+延边1,http://live.ybtvyun.com/video/s10006-cys-sd/index.m3u8
+延边2,http://live.ybtvyun.com/video/s10006-ybtv1-sd/index.m3u8
+延边22，http://live.ybtvyun.com/video/s10016-ybtv2-sd/index.m3u8
+朝鲜,http://live3.meiritv.mobi:2050/__defaultVhost__/HBCX/HBCX.m3u8
